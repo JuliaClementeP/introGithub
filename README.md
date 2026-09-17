@@ -4,7 +4,7 @@
 
 # DESCARGAR LA HERRAMIENTA
   <p align="center">
-    <a href="https://github.com/FranLapina/Herramienta-de-Aprendizaje-Git-y-GitHub-en-Linux/releases/tag/Herramienta_Aprendizaje_Git_UAH">
+    <a href="https://github.com/JuliaClementeP/introGithub/releases/tag/HerramientaAprendizajeGit">
       <strong>👉👉👉👉 PULSA AQUÍ PARA DESCARGAR LA HERRAMIENTA 👈👈👈👈</strong>
     </a>
   </p>
